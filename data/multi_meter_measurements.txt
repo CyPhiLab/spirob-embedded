@@ -1,0 +1,36 @@
+11/18/26 -- 10:00pm
+config: straight
+unit: k-ohms
+             across-silicon                 across-divider
+sensor 1:    16.07                          6.38
+sensor 2:    16.02                          9.14
+sensor 3:    16.56                          6.37
+sensor 4:    19.31                          6.38
+
+NOTE: striaght_position goes with these
+
+--------------------------------------------------------------------
+
+11/20/26 -- 11:00am
+config: straight
+unit: k-ohms
+             across-silicon                 across-divider
+sensor 1:    15.89                          8.39
+sensor 2:    15.89                          9.09
+sensor 3:    16.35                          9.24
+sensor 4:    19.07                          8.48
+
+NOTE: striaght_position_(1,2,3,4) goes with these 
+
+--------------------------------------------------------------------
+
+11/20/26 -- 11:00am
+config: straight
+unit: k-ohms
+             across-silicon                 across-divider
+sensor 1:    15.89                          8.39
+sensor 2:    15.89                          9.09
+sensor 3:    16.35                          9.24
+sensor 4:    19.07                          8.48
+
+NOTE: striaght_position_(1,2,3,4) goes with these 
