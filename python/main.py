@@ -8,7 +8,7 @@ import time
 import csv
 from pathlib import Path
 
-TEST_NAME = "straight_position_testcsv"
+TEST_NAME = "circle_1"
 DURATION = 10
 SAMPLE_INTERVAL = 0.1
 

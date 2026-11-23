@@ -20,17 +20,32 @@ sensor 2:    15.89                          9.09
 sensor 3:    16.35                          9.24
 sensor 4:    19.07                          8.48
 
-NOTE: striaght_position_(1,2,3,4) goes with these 
+NOTE: striaght_position_(1,2,3,4,5) goes with these 
 
 --------------------------------------------------------------------
 
-11/20/26 -- 11:00am
+11/20/26 -- 1pm
 config: straight
 unit: k-ohms
              across-silicon                 across-divider
-sensor 1:    15.89                          8.39
-sensor 2:    15.89                          9.09
-sensor 3:    16.35                          9.24
-sensor 4:    19.07                          8.48
+sensor 1:    15.74                          6.27
+sensor 2:    15.75                          9.02
+sensor 3:    16.31                          6.27
+sensor 4:    19.03                          6.27
 
-NOTE: striaght_position_(1,2,3,4) goes with these 
+NOTE: striaght_position_(6,7,8,9) goes with these 
+
+--------------------------------------------------------------------
+FROM HERE DOWN MADE WITH RE-DONE CIRCUIT
+--------------------------------------------------------------------
+
+11/21/26 -- 1:05pm
+config: straight
+unit: k-ohms
+             across-silicon                 across-divider
+sensor 1:    15.58                          4.11
+sensor 2:    15.60                          4.11
+sensor 3:    16.16                          4.11
+sensor 4:    18.88                          4.11
+
+NOTE: striaght_position_(10,11,12,13) goes with these 
